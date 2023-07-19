@@ -1,0 +1,19 @@
+{
+  "name": "goit-js-module-08-repeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nellievropa/goit-js-module-08-repeta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nellievropa/goit-js-module-08-repeta/issues"
+  },
+  "homepage": "https://github.com/nellievropa/goit-js-module-08-repeta#readme"
+}
