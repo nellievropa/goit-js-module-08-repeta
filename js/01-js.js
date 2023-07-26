@@ -18,7 +18,7 @@ console.log(message)
 // rm -rf css/global - удалить внутри папки другу папку и то, что в ней
 
 //  mv - переименовать/ переместить
-// mv main.css css - переместить файл main.css а папку css
+// mv main.css css - переместить файл main.css а папку cssrm
 // clear - очистить
 
 
