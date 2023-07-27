@@ -59,6 +59,9 @@ console.log(passwordSchema.validate('qqqqqqq'));
 
 //  npm instal (npm i) автоматично встановлює на новому компі або місці все, що в тебе було до цього
 
-
-
+// в package.jason  скріпт був такий
+//   "scripts": {
+    // "test": "echo \"Error: no test specified\" && exit 1",
+    // "start": "node app.js"
+//   },
 
