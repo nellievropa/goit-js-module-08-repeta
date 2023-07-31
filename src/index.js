@@ -1,21 +1,21 @@
-const sum =(a,b) => a + b;
+// const sum =(a,b) => a + b;
 
-sum(2,3);
+// sum(2,3);
 
-class Hero {
-    constructor(name) {
-        this._name = name;
-    }
-    get name() {
-        return this._name;
-    }
+// class Hero {
+//     constructor(name) {
+//         this._name = name;
+//     }
+//     get name() {
+//         return this._name;
+//     }
 
-    set name(newName) {
-        this._name = newName;
-    }
-}
+//     set name(newName) {
+//         this._name = newName;
+//     }
+// }
 
-const h = new Hero ('mango');
+// const h = new Hero ('mango');
 
 //  встановлюємо з babeljs.io з розділлу settings і із інструментів вибираємо CLI, клікаємо
 // беремо звідти посилання на налаштування npm install --save-dev @babel/core @babel/cli
@@ -35,3 +35,9 @@ const h = new Hero ('mango');
 
 // 
 // browserslist - один для всіх : по його рекомендації створюємо файл .browserslistrc
+
+import './css/common.scss';
+// import 
+
+
+console.log('This is index.js');
