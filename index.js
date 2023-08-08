@@ -35,7 +35,7 @@
 
 // 
 // browserslist - один для всіх : по його рекомендації створюємо файл .browserslistrc
-import name from './module-1.js';
+import name from './src/module-1.js';
 import './css/common.scss';
 import  './css/button.scss'
 
